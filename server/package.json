@@ -1,0 +1,17 @@
+{
+  "name": "sollogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Golam Wahid",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.0",
+    "esrun": "^3.2.26",
+    "moralis": "^2.25.2",
+    "typescript": "^5.4.2"
+  }
+}
